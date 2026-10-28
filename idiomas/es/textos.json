@@ -1,0 +1,283 @@
+{
+  "common": {
+    "og": {
+      "locale": "es_ES"
+    },
+    "social": {
+      "instagram": "Instagram",
+      "linkedin": "LinkedIn",
+      "tiktok": "TikTok",
+      "facebook": "Facebook",
+      "youtube": "YouTube"
+    },
+    "ui": {
+      "skipToContent": "Saltar al contenido",
+      "openMenu": "Abrir menú",
+      "language": "Idioma"
+    },
+    "nav": {
+      "homeAria": "PowerDevelop (inicio)",
+      "ariaLabel": "Navegación principal",
+      "services": "Servicios",
+      "cases": "Casos",
+      "company": "Empresa",
+      "contact": "Contacto"
+    },
+    "footer": {
+      "linksAria": "Enlaces",
+      "socialTitle": "Redes sociales",
+      "tagline": "Desarrollo de software y consultoría tecnológica.",
+      "legal": "© {{year}} PowerDevelop. Todos los derechos reservados."
+    }
+  },
+  "pages": {
+    "home": {
+      "meta": {
+        "title": "PowerDevelop | Desarrollo de software y consultoría tecnológica",
+        "description": "PowerDevelop desarrolla software a medida y acompaña a organizaciones en la definición, construcción y evolución de productos digitales con foco en calidad, rendimiento y mantenibilidad.",
+        "ogDescription": "Software a medida, consultoría y evolución de producto con enfoque técnico y orientación a negocio."
+      },
+      "hero": {
+        "eyebrow": "Consultoría y desarrollo de software",
+        "title": "Soluciones digitales con enfoque técnico y visión de producto",
+        "lead": "En PowerDevelop ayudamos a diseñar, construir y evolucionar software a medida con buenas prácticas de arquitectura, rendimiento y calidad.",
+        "ctaPrimary": "Ver servicios",
+        "ctaSecondary": "Habla con nosotros",
+        "pillarsAria": "Pilares",
+        "pillars": {
+          "p1": "Arquitectura y calidad",
+          "p2": "Entrega incremental",
+          "p3": "Experiencia en producto"
+        },
+        "areasTitle": "Áreas de trabajo",
+        "areas": {
+          "a1": "Aplicaciones web",
+          "a2": "Automatización",
+          "a3": "Integraciones",
+          "a4": "Mantenimiento evolutivo"
+        }
+      },
+      "services": {
+        "title": "Servicios",
+        "lead": "Servicios pensados para organizaciones que necesitan construir con consistencia técnica y mantener velocidad de evolución.",
+        "cards": {
+          "c1Title": "Páginas web y software a medida",
+          "c1Body": "Creamos páginas web profesionales, landing pages y herramientas simples para que tu negocio se vea mejor, genere confianza y convierta.",
+          "c2Title": "Consultoría técnica",
+          "c2Body": "Revisamos tu web o sistema actual y te decimos qué mejorar primero: velocidad, seguridad, estructura y experiencia para tus clientes.",
+          "c3Title": "Automatización e integraciones",
+          "c3Body": "Conectamos formularios, correo, WhatsApp y otras herramientas para que la información llegue donde la necesitas sin trabajo manual.",
+          "c4Title": "Soporte y mejoras",
+          "c4Body": "Te ayudamos a mantener tu web o aplicación al día con cambios, mejoras y soporte para seguir creciendo con estabilidad."
+        },
+        "link": "Ver detalle de servicios"
+      },
+      "process": {
+        "title": "Cómo trabajamos",
+        "lead": "Un proceso claro para reducir riesgos y maximizar aprendizaje.",
+        "steps": {
+          "s1Title": "Descubrimiento",
+          "s1Body": "Entendemos el contexto, restricciones y objetivos. Priorizamos y definimos un alcance inicial realista.",
+          "s2Title": "Construcción",
+          "s2Body": "Implementamos con entregas incrementales, criterios de calidad y seguimiento de riesgos técnicos.",
+          "s3Title": "Evolución",
+          "s3Body": "Medimos, iteramos y mejoramos. Ajustamos arquitectura y producto para sostener el crecimiento."
+        }
+      },
+      "billing": {
+        "title": "Modelo de contratación",
+        "lead": "Definimos el esquema de trabajo y el presupuesto según el alcance, el objetivo y la urgencia.",
+        "hourly": {
+          "title": "Tarifa por hora",
+          "desc": "Ideal para soporte, ajustes y mejoras continuas. Pagas por el tiempo real dedicado a tu necesidad.",
+          "whenTitle": "Ideal para",
+          "when": {
+            "p1": "Proyectos abiertos o con alcance variable",
+            "p2": "Soporte, cambios y mejoras"
+          },
+          "exampleTitle": "Tarifa",
+          "exampleValue": "$80.000 – $100.000 COP / hora (Segun complejidad)"
+        }
+      },
+      "cases": {
+        "title": "Casos y proyectos",
+        "lead": "Ejemplos de tipos de trabajo (sin exponer información sensible).",
+        "cards": {
+          "c1Title": "Plataforma interna",
+          "c1Body": "Consolidación de herramientas operativas y reporting para equipos de negocio.",
+          "c2Title": "Integración de sistemas",
+          "c2Body": "Automatización de flujos entre aplicaciones para reducir tareas manuales y errores.",
+          "c3Title": "Optimización y calidad",
+          "c3Body": "Mejoras de rendimiento, estabilidad y mantenibilidad en aplicaciones existentes."
+        },
+        "link": "Ver casos"
+      },
+      "cta": {
+        "title": "¿Quieres hablar de tu proyecto?",
+        "lead": "Cuéntanos el contexto y te respondemos con un siguiente paso concreto.",
+        "button": "Contacto"
+      }
+    },
+    "services": {
+      "meta": {
+        "title": "Servicios | PowerDevelop",
+        "description": "Servicios de PowerDevelop: desarrollo de software a medida, consultoría técnica, integraciones, automatización y soporte evolutivo.",
+        "ogDescription": "Desarrollo a medida, consultoría, integraciones y evolución de producto."
+      },
+      "hero": {
+        "eyebrow": "Servicios",
+        "title": "Capacidades para construir y evolucionar producto",
+        "lead": "Si necesitas una web profesional, mejorar tu presencia online o simplificar procesos internos, te ayudamos con soluciones claras y a medida."
+      },
+      "cards": {
+        "d1Title": "Páginas web y software a medida",
+        "d1Body": "Construimos soluciones digitales para negocios: desde una web corporativa hasta herramientas internas sencillas.",
+        "d1L1": "Páginas web corporativas y landing pages",
+        "d1L2": "Catálogos o tiendas online (según necesidad)",
+        "d1L3": "Herramientas para gestionar pedidos, clientes o procesos",
+        "d2Title": "Revisión y mejoras de tu web o sistema",
+        "d2Body": "Si ya tienes una web o aplicación, te ayudamos a corregir lo importante y mejorar resultados.",
+        "d2L1": "Mejoras de velocidad y experiencia de usuario",
+        "d2L2": "Orden y claridad en contenidos y estructura",
+        "d2L3": "Recomendaciones concretas y priorizadas",
+        "d3Title": "Automatización e integraciones",
+        "d3Body": "Conectamos tus herramientas para ahorrar tiempo y evitar errores.",
+        "d3L1": "Formularios que llegan a tu correo o CRM",
+        "d3L2": "Integraciones con WhatsApp, email y plataformas",
+        "d3L3": "Automatización de tareas repetitivas",
+        "d4Title": "Soporte y evolución",
+        "d4Body": "Mantenemos tu web y tus herramientas actualizadas mientras tu negocio crece.",
+        "d4L1": "Cambios y mejoras continuas",
+        "d4L2": "Corrección de incidencias",
+        "d4L3": "Acompañamiento para nuevas necesidades"
+      },
+      "work": {
+        "title": "Forma de trabajo",
+        "lead": "Alineamos expectativas desde el inicio. Definimos entregables claros y mantenemos visibilidad del avance.",
+        "steps": {
+          "s1Title": "Alcance y plan",
+          "s1Body": "Definición de objetivos, riesgos y un plan incremental con hitos medibles.",
+          "s2Title": "Implementación",
+          "s2Body": "Entrega iterativa con criterios de calidad, revisiones y seguimiento de decisiones técnicas.",
+          "s3Title": "Transferencia",
+          "s3Body": "Documentación mínima útil, soporte y acompañamiento para garantizar continuidad."
+        }
+      },
+      "cta": {
+        "title": "¿Necesitas una estimación o una evaluación técnica?",
+        "lead": "Envíanos un resumen del contexto y te proponemos el siguiente paso.",
+        "button": "Contacto"
+      }
+    },
+    "cases": {
+      "meta": {
+        "title": "Casos | PowerDevelop",
+        "description": "Casos y ejemplos de proyectos tipo en PowerDevelop: plataformas internas, integraciones y mejoras de rendimiento y calidad.",
+        "ogDescription": "Ejemplos de tipos de proyectos y resultados habituales."
+      },
+      "hero": {
+        "eyebrow": "Casos",
+        "title": "Ejemplos de proyectos tipo",
+        "lead": "Estos casos representan tipos de trabajo habituales. Los detalles se ajustan a cada contexto, y cuando hay información sensible se presenta de forma general."
+      },
+      "cards": {
+        "c1Title": "Plataforma interna para operaciones",
+        "c1Objective": "Objetivo: unificar herramientas y reducir fricción operativa.",
+        "c1L1": "Paneles para equipos de negocio y soporte",
+        "c1L2": "Permisos y trazabilidad de acciones",
+        "c1L3": "Reporting orientado a decisiones",
+        "c2Title": "Integración de sistemas y automatización",
+        "c2Objective": "Objetivo: minimizar tareas manuales y errores.",
+        "c2L1": "Sincronización de datos entre plataformas",
+        "c2L2": "Automatización de procesos recurrentes",
+        "c2L3": "Alertas y métricas de ejecución",
+        "c3Title": "Mejora de rendimiento y calidad",
+        "c3Objective": "Objetivo: estabilizar y mejorar la experiencia.",
+        "c3L1": "Diagnóstico de cuellos de botella",
+        "c3L2": "Reducción de deuda técnica priorizada",
+        "c3L3": "Mejoras de mantenibilidad y fiabilidad"
+      },
+      "expect": {
+        "title": "Qué puedes esperar",
+        "lead": "Un estándar de trabajo consistente, independientemente del tamaño del proyecto.",
+        "e1Title": "Claridad y trazabilidad",
+        "e1Body": "Decisiones técnicas justificadas, entregables definidos y visibilidad del estado del trabajo.",
+        "e2Title": "Calidad sostenible",
+        "e2Body": "Buenas prácticas, foco en mantenibilidad y reducción de riesgos a medio plazo."
+      },
+      "cta": {
+        "title": "¿Quieres compartir tu caso?",
+        "lead": "Con un breve resumen podemos ayudarte a concretar una propuesta de trabajo.",
+        "button": "Contacto"
+      }
+    },
+    "company": {
+      "meta": {
+        "title": "Empresa | PowerDevelop",
+        "description": "Conoce PowerDevelop: enfoque de trabajo, valores y forma de colaborar para construir software mantenible y eficiente.",
+        "ogDescription": "Enfoque, valores y forma de trabajo."
+      },
+      "hero": {
+        "eyebrow": "Empresa",
+        "title": "PowerDevelop",
+        "lead": "Somos una marca orientada a construir software con criterios técnicos sólidos, comunicación clara y foco en resultados sostenibles."
+      },
+      "cards": {
+        "c1Title": "Enfoque",
+        "c1Body": "Priorizamos decisiones que reduzcan riesgo: arquitectura comprensible, calidad consistente, y entregas iterativas para validar antes.",
+        "c1L1": "Diseño orientado a mantenibilidad",
+        "c1L2": "Rendimiento y experiencia de usuario",
+        "c1L3": "Buenas prácticas y disciplina técnica",
+        "c2Title": "Colaboración",
+        "c2Body": "Nos adaptamos al modo de trabajo del cliente, manteniendo una estructura mínima que garantice orden.",
+        "c2L1": "Alcance y entregables claros",
+        "c2L2": "Visibilidad del progreso y riesgos",
+        "c2L3": "Transferencia de conocimiento cuando aplica"
+      },
+      "values": {
+        "title": "Valores",
+        "lead": "Principios que guían decisiones técnicas y de colaboración.",
+        "v1Title": "Claridad",
+        "v1Body": "Comunicación directa, decisiones justificadas y expectativas alineadas.",
+        "v2Title": "Calidad",
+        "v2Body": "Trabajo sostenible: lo que se entrega debe poder mantenerse y evolucionar.",
+        "v3Title": "Confiabilidad",
+        "v3Body": "Compromiso con plazos acordados, transparencia ante riesgos y resolución consistente."
+      },
+      "cta": {
+        "title": "¿Buscas un partner técnico?",
+        "lead": "Podemos evaluar el estado actual o construir desde cero con una base sólida.",
+        "button": "Contacto"
+      }
+    },
+    "contact": {
+      "meta": {
+        "title": "Contacto | PowerDevelop",
+        "description": "Contacto con PowerDevelop. Envíanos un mensaje para hablar sobre tu proyecto, una evaluación técnica o un servicio.",
+        "ogDescription": "Envíanos un mensaje y responderemos con un siguiente paso concreto."
+      },
+      "hero": {
+        "eyebrow": "Contacto",
+        "title": "Hablemos",
+        "lead": "Envíanos un resumen del contexto (objetivo, plazos, estado actual) y te respondemos."
+      },
+      "form": {
+        "title": "Formulario",
+        "lead": "Envíanos un mensaje con el contexto y te responderemos lo antes posible.",
+        "name": "Nombre",
+        "email": "Email",
+        "company": "Empresa (opcional)",
+        "message": "Mensaje",
+        "send": "Enviar"
+      },
+      "aside": {
+        "title": "Qué incluir",
+        "l1": "Objetivo del proyecto y usuarios",
+        "l2": "Estado actual (si existe) y restricciones",
+        "l3": "Plazo deseado y alcance aproximado",
+        "l4": "Si necesitas estimación o diagnóstico",
+        "note": "Si lo necesitas, también podemos preparar una plantilla de briefing para el primer contacto."
+      }
+    }
+  }
+}

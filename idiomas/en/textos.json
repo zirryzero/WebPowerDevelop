@@ -1,0 +1,283 @@
+{
+  "common": {
+    "og": {
+      "locale": "en_US"
+    },
+    "social": {
+      "instagram": "Instagram",
+      "linkedin": "LinkedIn",
+      "tiktok": "TikTok",
+      "facebook": "Facebook",
+      "youtube": "YouTube"
+    },
+    "ui": {
+      "skipToContent": "Skip to content",
+      "openMenu": "Open menu",
+      "language": "Language"
+    },
+    "nav": {
+      "homeAria": "PowerDevelop (home)",
+      "ariaLabel": "Main navigation",
+      "services": "Services",
+      "cases": "Cases",
+      "company": "Company",
+      "contact": "Contact"
+    },
+    "footer": {
+      "linksAria": "Links",
+      "socialTitle": "Social",
+      "tagline": "Software development and technology consulting.",
+      "legal": "© {{year}} PowerDevelop. All rights reserved."
+    }
+  },
+  "pages": {
+    "home": {
+      "meta": {
+        "title": "PowerDevelop | Software development and technology consulting",
+        "description": "PowerDevelop builds custom software and supports organizations in defining, building, and evolving digital products with a focus on quality, performance, and maintainability.",
+        "ogDescription": "Custom software, consulting, and product evolution with a strong technical focus and business alignment."
+      },
+      "hero": {
+        "eyebrow": "Consulting and software development",
+        "title": "Digital solutions with technical rigor and product mindset",
+        "lead": "At PowerDevelop we help design, build, and evolve custom software using solid architecture practices, performance, and quality standards.",
+        "ctaPrimary": "View services",
+        "ctaSecondary": "Talk to us",
+        "pillarsAria": "Pillars",
+        "pillars": {
+          "p1": "Architecture and quality",
+          "p2": "Incremental delivery",
+          "p3": "Product experience"
+        },
+        "areasTitle": "Areas of work",
+        "areas": {
+          "a1": "Web applications",
+          "a2": "Automation",
+          "a3": "Integrations",
+          "a4": "Ongoing improvement"
+        }
+      },
+      "services": {
+        "title": "Services",
+        "lead": "Services for organizations that need consistent engineering standards while keeping delivery velocity.",
+        "cards": {
+          "c1Title": "Websites and custom software",
+          "c1Body": "We build professional websites, landing pages, and simple tools so your business looks credible, attracts clients, and converts.",
+          "c2Title": "Technical consulting",
+          "c2Body": "We review your current website or system and tell you what to improve first: speed, structure, security, and customer experience.",
+          "c3Title": "Automation and integrations",
+          "c3Body": "We connect forms, email, WhatsApp, and your tools so information flows where you need it—without manual work.",
+          "c4Title": "Support and improvements",
+          "c4Body": "We keep your website or app up to date with changes, improvements, and ongoing support as your business grows."
+        },
+        "link": "See service details"
+      },
+      "process": {
+        "title": "How we work",
+        "lead": "A clear process to reduce risk and maximize learning.",
+        "steps": {
+          "s1Title": "Discovery",
+          "s1Body": "We understand context, constraints, and goals. We prioritize and define a realistic initial scope.",
+          "s2Title": "Build",
+          "s2Body": "We implement with incremental deliveries, quality criteria, and continuous tracking of technical risks.",
+          "s3Title": "Evolve",
+          "s3Body": "We measure, iterate, and improve. We adjust architecture and product to sustain growth."
+        }
+      },
+      "billing": {
+        "title": "Engagement & pricing",
+        "lead": "We define the engagement model and budget based on scope, goals, and urgency.",
+        "hourly": {
+          "title": "Hourly rate",
+          "desc": "Ideal for support, tweaks, and ongoing improvements. You pay for the actual time spent on your request.",
+          "whenTitle": "Best for",
+          "when": {
+            "p1": "Open-ended projects or changing scope",
+            "p2": "Support, changes, and improvements"
+          },
+          "exampleTitle": "Rate",
+          "exampleValue": "COP $80,000 – $100,000 / hour (based on complexity)"
+        }
+      },
+      "cases": {
+        "title": "Cases and projects",
+        "lead": "Examples of work types (without exposing sensitive information).",
+        "cards": {
+          "c1Title": "Internal platform",
+          "c1Body": "Consolidation of operational tools and reporting for business teams.",
+          "c2Title": "Systems integration",
+          "c2Body": "Workflow automation between applications to reduce manual tasks and errors.",
+          "c3Title": "Optimization and quality",
+          "c3Body": "Performance, stability, and maintainability improvements in existing applications."
+        },
+        "link": "View cases"
+      },
+      "cta": {
+        "title": "Want to discuss your project?",
+        "lead": "Share the context and we’ll respond with a concrete next step.",
+        "button": "Contact"
+      }
+    },
+    "services": {
+      "meta": {
+        "title": "Services | PowerDevelop",
+        "description": "PowerDevelop services: custom software development, technical consulting, integrations, automation, and evolutionary support.",
+        "ogDescription": "Custom development, consulting, integrations, and product evolution."
+      },
+      "hero": {
+        "eyebrow": "Services",
+        "title": "Capabilities to build and evolve product",
+        "lead": "If you need a professional website, stronger online presence, or simpler internal processes, we deliver clear, tailored solutions."
+      },
+      "cards": {
+        "d1Title": "Websites and custom software",
+        "d1Body": "We build digital solutions for businesses—from a corporate website to simple internal tools.",
+        "d1L1": "Corporate websites and landing pages",
+        "d1L2": "Catalogs or online stores (as needed)",
+        "d1L3": "Tools to manage orders, clients, or operations",
+        "d2Title": "Website or system review and improvements",
+        "d2Body": "If you already have a website or app, we help you fix what matters and improve results.",
+        "d2L1": "Speed and user experience improvements",
+        "d2L2": "Clear structure and content organization",
+        "d2L3": "Concrete, prioritized recommendations",
+        "d3Title": "Automation and integrations",
+        "d3Body": "We connect your tools to save time and reduce errors.",
+        "d3L1": "Forms that go to your email or CRM",
+        "d3L2": "Integrations with WhatsApp, email, and platforms",
+        "d3L3": "Automation of repetitive tasks",
+        "d4Title": "Support and evolution",
+        "d4Body": "We keep your website and tools up to date as your business grows.",
+        "d4L1": "Continuous changes and improvements",
+        "d4L2": "Issue fixes and maintenance",
+        "d4L3": "Guidance for new needs"
+      },
+      "work": {
+        "title": "How we collaborate",
+        "lead": "We align expectations early. We define clear deliverables and keep progress visible.",
+        "steps": {
+          "s1Title": "Scope and plan",
+          "s1Body": "Goals, risks, and an incremental plan with measurable milestones.",
+          "s2Title": "Implementation",
+          "s2Body": "Iterative delivery with quality criteria, reviews, and tracking of technical decisions.",
+          "s3Title": "Handover",
+          "s3Body": "Useful minimal documentation, support, and guidance to ensure continuity."
+        }
+      },
+      "cta": {
+        "title": "Need an estimate or a technical assessment?",
+        "lead": "Send us a brief context summary and we’ll propose the next step.",
+        "button": "Contact"
+      }
+    },
+    "cases": {
+      "meta": {
+        "title": "Cases | PowerDevelop",
+        "description": "Project examples at PowerDevelop: internal platforms, integrations, and performance and quality improvements.",
+        "ogDescription": "Examples of common project types and outcomes."
+      },
+      "hero": {
+        "eyebrow": "Cases",
+        "title": "Example project types",
+        "lead": "These cases represent common work patterns. Details adapt to each context, and sensitive information is presented at a high level."
+      },
+      "cards": {
+        "c1Title": "Internal operations platform",
+        "c1Objective": "Goal: unify tools and reduce operational friction.",
+        "c1L1": "Dashboards for business and support teams",
+        "c1L2": "Permissions and action audit trails",
+        "c1L3": "Decision‑oriented reporting",
+        "c2Title": "Systems integration and automation",
+        "c2Objective": "Goal: minimize manual tasks and errors.",
+        "c2L1": "Data synchronization across platforms",
+        "c2L2": "Automation of recurring processes",
+        "c2L3": "Execution alerts and metrics",
+        "c3Title": "Performance and quality improvement",
+        "c3Objective": "Goal: stabilize and improve the experience.",
+        "c3L1": "Bottleneck diagnosis",
+        "c3L2": "Prioritized technical debt reduction",
+        "c3L3": "Maintainability and reliability improvements"
+      },
+      "expect": {
+        "title": "What to expect",
+        "lead": "A consistent working standard, regardless of project size.",
+        "e1Title": "Clarity and traceability",
+        "e1Body": "Justified technical decisions, defined deliverables, and visibility into work status.",
+        "e2Title": "Sustainable quality",
+        "e2Body": "Best practices, maintainability focus, and risk reduction over time."
+      },
+      "cta": {
+        "title": "Want to share your case?",
+        "lead": "With a brief summary we can help you shape a working proposal.",
+        "button": "Contact"
+      }
+    },
+    "company": {
+      "meta": {
+        "title": "Company | PowerDevelop",
+        "description": "About PowerDevelop: our approach, values, and collaboration style for building maintainable and efficient software.",
+        "ogDescription": "Approach, values, and ways of working."
+      },
+      "hero": {
+        "eyebrow": "Company",
+        "title": "PowerDevelop",
+        "lead": "We build software with solid engineering criteria, clear communication, and a focus on sustainable outcomes."
+      },
+      "cards": {
+        "c1Title": "Approach",
+        "c1Body": "We prioritize decisions that reduce risk: understandable architecture, consistent quality, and iterative delivery to validate early.",
+        "c1L1": "Maintainability‑oriented design",
+        "c1L2": "Performance and user experience",
+        "c1L3": "Best practices and technical discipline",
+        "c2Title": "Collaboration",
+        "c2Body": "We adapt to the client’s working style while keeping the minimum structure needed to stay organized.",
+        "c2L1": "Clear scope and deliverables",
+        "c2L2": "Visibility into progress and risks",
+        "c2L3": "Knowledge transfer when needed"
+      },
+      "values": {
+        "title": "Values",
+        "lead": "Principles that guide technical and collaboration decisions.",
+        "v1Title": "Clarity",
+        "v1Body": "Direct communication, justified decisions, and aligned expectations.",
+        "v2Title": "Quality",
+        "v2Body": "Sustainable work: what we deliver should be maintainable and evolvable.",
+        "v3Title": "Reliability",
+        "v3Body": "Commitment to agreed timelines, transparency about risks, and consistent execution."
+      },
+      "cta": {
+        "title": "Looking for a technical partner?",
+        "lead": "We can assess your current state or build from scratch with a solid foundation.",
+        "button": "Contact"
+      }
+    },
+    "contact": {
+      "meta": {
+        "title": "Contact | PowerDevelop",
+        "description": "Contact PowerDevelop. Send a message to discuss your project, a technical assessment, or a service.",
+        "ogDescription": "Send us a message and we’ll respond with a concrete next step."
+      },
+      "hero": {
+        "eyebrow": "Contact",
+        "title": "Let’s talk",
+        "lead": "Send a brief context summary (goals, timeline, current state) and we’ll get back to you."
+      },
+      "form": {
+        "title": "Form",
+        "lead": "Send us a message with the context and we’ll reply as soon as possible.",
+        "name": "Name",
+        "email": "Email",
+        "company": "Company (optional)",
+        "message": "Message",
+        "send": "Send"
+      },
+      "aside": {
+        "title": "What to include",
+        "l1": "Project goal and users",
+        "l2": "Current state (if any) and constraints",
+        "l3": "Desired timeline and approximate scope",
+        "l4": "Whether you need an estimate or diagnosis",
+        "note": "If needed, we can also prepare a briefing template for the first contact."
+      }
+    }
+  }
+}
